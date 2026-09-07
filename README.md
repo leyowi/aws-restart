@@ -10,5 +10,5 @@ A collection of programming labs built during the **AWS re/Start** program.
 ## 📂 Repository Structure
 
 ```text
-├── python/             # Python scripts and labs
-└── linux-bash/         # Linux challenge lab 
+├── linux-bash/             # Linux challenge lab
+└── python                  # Python scripts and labs
