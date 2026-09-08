@@ -1,5 +1,5 @@
 /.vscode
 /venv
 *.docx
-*.txt
+setup.txt
 *.pem
